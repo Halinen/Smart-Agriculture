@@ -12,3 +12,12 @@
 -------
 ![](https://github.com/KurisuShiina/Smart-Agriculture/blob/master/pic/login.png)
 <br>
+![](https://github.com/KurisuShiina/Smart-Agriculture/blob/master/pic/interface.png)
+<br>
+![](https://github.com/KurisuShiina/Smart-Agriculture/blob/master/pic/control.png)
+<br>
+![](https://github.com/KurisuShiina/Smart-Agriculture/blob/master/pic/history.png)
+<br>
+![](https://github.com/KurisuShiina/Smart-Agriculture/blob/master/pic/user.png)
+<br>
+![](https://github.com/KurisuShiina/Smart-Agriculture/blob/master/pic/add.png)
