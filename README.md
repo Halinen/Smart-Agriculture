@@ -1,4 +1,4 @@
-# -GTK-
+# Smart-Agriculture
 基于GTK和SQLITE3的智慧农业管理系统
 ===
 项目功能<br>
